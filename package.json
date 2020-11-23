@@ -1,0 +1,9 @@
+{
+  "name": "movieql_gape",
+  "version": "1.0.0",
+  "description": "movie app with graphQL",
+  "main": "index.js",
+  "repository": "https://github.com/jaekwonsHub/movieql_gape.git",
+  "author": "Kang Jae Kwon <rkdwornjs123@gmail.com>",
+  "license": "MIT"
+}
